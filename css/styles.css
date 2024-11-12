@@ -758,7 +758,7 @@ border-radius: 50%;
     position: relative;
 }
 
-.modal-form-lable1{
+.modal-form-lable{
     margin-bottom: 8px;
 }
 
@@ -789,10 +789,6 @@ border-radius: 50%;
     line-height: 1.17;
     letter-spacing: 0.04em;
     color: rgba(46, 47, 66, 0.4);
-}
-
-.modal-form-lable{
-    margin-bottom: 24px;
 }
 
 .modal-text-area:focus{
