@@ -766,6 +766,10 @@ border-radius: 50%;
     margin-bottom: 16px;
 }
 
+.modal-form-checkbox{
+    margin-bottom: 24px;
+}
+
 .modal-input-icon{
     fill: #2e2f42;
     position:absolute;
